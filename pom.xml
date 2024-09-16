@@ -8,7 +8,7 @@
 		<version>2.4.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jss</groupId>
+	<groupId>com.example.demo</groupId>
 	<artifactId>camel</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<name>camel</name>
