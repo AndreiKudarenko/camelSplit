@@ -1,0 +1,71 @@
+<SOAP:Envelope xmlns:SOAP='http://schemas.xmlsoap.org/soap/envelope/'>
+    <SOAP:Header/>
+    <SOAP:Body>
+        <ns1:pricelists xmlns:ns1='http://example.demo.com/'>
+            <creationtime>2024-09-12 00:03:04</creationtime>
+            <packageID>12301059</packageID>
+            <priceLists>
+                <priceList>
+                    <action>I</action>
+                    <priceListId>74910865</priceListId>
+                    <productId>1226537</productId>
+                    <listPrice>116.0000000000</listPrice>
+                    <listCost>32.5087000000</listCost>
+                    <discount1>29.0517240000</discount1>
+                    <discount2>56.3793100000</discount2>
+                    <discount3>56.3793100000</discount3>
+                    <discount4>56.3793100000</discount4>
+                    <discount5>56.3793100000</discount5>
+                    <discount6>56.3793100000</discount6>
+                    <discount7>56.3793100000</discount7>
+                    <discount8>56.3793100000</discount8>
+                    <discount9>56.3793100000</discount9>
+                    <discount10>56.3793100000</discount10>
+                    <discount11>29.0517240000</discount11>
+                    <discCurr>РУБ</discCurr>
+                    <startDate>2024-09-13  00:00:00</startDate>
+                </priceList>
+                <priceList>
+                    <action>I</action>
+                    <priceListId>74910866</priceListId>
+                    <productId>1226538</productId>
+                    <listPrice>198.0000000000</listPrice>
+                    <listCost>45.2336000000</listCost>
+                    <discount1>28.7878790000</discount1>
+                    <discount2>68.4848480000</discount2>
+                    <discount3>68.4848480000</discount3>
+                    <discount4>68.4848480000</discount4>
+                    <discount5>68.4848480000</discount5>
+                    <discount6>68.4848480000</discount6>
+                    <discount7>68.4848480000</discount7>
+                    <discount8>68.4848480000</discount8>
+                    <discount9>68.4848480000</discount9>
+                    <discount10>68.4848480000</discount10>
+                    <discount11>28.7878790000</discount11>
+                    <discCurr>РУБ</discCurr>
+                    <startDate>2024-09-13  00:00:00</startDate>
+                </priceList>
+                <priceList>
+                    <action>I</action>
+                    <priceListId>74910867</priceListId>
+                    <productId>1226540</productId>
+                    <listPrice>138.0000000000</listPrice>
+                    <listCost>36.6588000000</listCost>
+                    <discount1>28.9855070000</discount1>
+                    <discount2>70.1449280000</discount2>
+                    <discount3>70.1449280000</discount3>
+                    <discount4>70.1449280000</discount4>
+                    <discount5>70.1449280000</discount5>
+                    <discount6>70.1449280000</discount6>
+                    <discount7>70.1449280000</discount7>
+                    <discount8>70.1449280000</discount8>
+                    <discount9>70.1449280000</discount9>
+                    <discount10>70.1449280000</discount10>
+                    <discount11>28.9855070000</discount11>
+                    <discCurr>РУБ</discCurr>
+                    <startDate>2024-09-13  00:00:00</startDate>
+                </priceList>
+            </priceLists>
+        </ns1:pricelists>
+    </SOAP:Body>
+</SOAP:Envelope>
